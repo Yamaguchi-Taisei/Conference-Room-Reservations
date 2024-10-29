@@ -1,0 +1,6 @@
+fastapi
+sqlalchemy
+pydantic
+streamlit
+requests
+pandas
